@@ -11,7 +11,7 @@ public class Conditional {
         else{
             System.out.println("not adult");
         }
-        System.out.println("rinku");
+        
 
     }
     
